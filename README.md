@@ -7,6 +7,9 @@ Home Page: https://eduardo-ono.github.io/arquitetura-e-organizacao-de-computador
 
 ## Bibliografia
 
-- STALLINGS, William. [Arquitetura e Organização de Computadores, 10 ed.], Pearson, 2017.
+- TANENBAUM, Andrew S. [Organização Estruturada de Computadores, 6 ed.](https://archive.org/details/TanenbaumOrganizacaoEstruturadaDeComputadores6Ed),
+São Paulo: Pearson Prentice Hall, 2013.
+
+- STALLINGS, William. Arquitetura e Organização de Computadores, 10 ed., Pearson, 2017.
 
 - PATTERSON, David A.; HENNESSY, John L. [Arquitetura de Computadores: Uma Abordagem Quantitativa](https://archive.org/details/ArquiteturaDeComputadores) Rio de Janeiro: Elsevier, 2014.

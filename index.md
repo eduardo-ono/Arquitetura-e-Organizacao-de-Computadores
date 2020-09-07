@@ -3,6 +3,10 @@
 Prof. Eduardo Ono
 
 
+## Softwares
+
+- Logisim - Simulador de circuitos lógicos | [Download](https://sourceforge.net/projects/circuit/) 
+
 ## Bibliografia
 
 - STALLINGS, William. [Arquitetura e Organização de Computadores, 10 ed.], Pearson, 2017.

@@ -4,6 +4,15 @@ Prof. Eduardo Ono
 
 Home Page: https://eduardo-ono.github.io/arquitetura-e-organizacao-de-computadores/
 
+<br>
+
+## Descrição
+
+<br>
+
+## Conteúdo
+
+<br>
 
 ## Bibliografia
 
@@ -14,7 +23,7 @@ São Paulo: Pearson Prentice Hall, 2013.
 
 - PATTERSON, David A.; HENNESSY, John L. [Arquitetura de Computadores: Uma Abordagem Quantitativa](https://archive.org/details/ArquiteturaDeComputadores), Rio de Janeiro: Elsevier, 2014.
 
-## Sugestão de filmes
+## Filmes sugeridos
 
 - The Imitation Game (2014) | [Trailer](https://youtu.be/nuPZUUED5uk)
 - Jobs (2013) | [Trailer](https://youtu.be/SH1jKZwcS9Y)

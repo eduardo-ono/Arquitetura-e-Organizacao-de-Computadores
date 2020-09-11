@@ -2,10 +2,35 @@
 
 Prof. Eduardo Ono
 
+<br>
 
 ## Softwares
 
 - Logisim - Simulador de circuitos lógicos | [Download](https://sourceforge.net/projects/circuit/) 
+
+<br>
+
+## Conteúdo Programático
+
+* Conceitos
+* Arquiteturas de Von Neumann e Harvard
+* Princípios de Microeletrônica
+    * Materiais Semi-condutores
+    * Fotolitografia
+    * Lei de Moore
+* Processadores
+    * CPU
+    * SMT
+* Muti-tarefa
+    * Concorrência x Paralelismo
+    * Lei de Amdahl
+* RISC x CISC
+* Memória
+* SBC (Single Board Computers)
+    * Raspberry Pi
+* Computadores Quânticos
+
+<br>
 
 ## Bibliografia
 

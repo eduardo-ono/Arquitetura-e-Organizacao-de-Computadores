@@ -14,7 +14,7 @@ Home Page: https://eduardo-ono.github.io/arquitetura-e-organizacao-de-computador
 <br>
 
 * Conceitos
-* Microeletrônica
+* Princípios de Microeletrônica
     * Materiais Semicondutores
     * Fotolitografia
     * Lei de Moore
@@ -47,6 +47,7 @@ São Paulo: Pearson Prentice Hall, 2013.
 ## Filmes recomendados
 <br>
 
-- The Imitation Game (2014) | [Trailer](https://youtu.be/nuPZUUED5uk)
-- Jobs (2013) | [Trailer](https://youtu.be/SH1jKZwcS9Y)
-- Top Gun (1986) | Top Gun - Ases Indomáveis | [Trailer](https://youtu.be/r5h5JrzJMtQ)
+* The Imitation Game (2014) | [Trailer](https://youtu.be/nuPZUUED5uk)
+* Jobs (2013) | [Trailer](https://youtu.be/SH1jKZwcS9Y)
+* Sully (2016) | [Trailer](https://youtu.be/9n6hcBc4bgE)
+* Top Gun (1986) | Top Gun - Ases Indomáveis | [Trailer](https://youtu.be/r5h5JrzJMtQ)

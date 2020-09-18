@@ -1,6 +1,6 @@
 /*
  * Programa (não otimizado) que determina todos os divisores de um inteiro.
- * Não utiliza threads (N = 0).  // N = Número de unidades de processamento
+ * Não utiliza threads adicionais (N = 1).  // N = Número de unidades de processamento
  *
  * Copyright(c) Eduardo Ono.
 */

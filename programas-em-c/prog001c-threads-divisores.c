@@ -7,7 +7,7 @@
 */
 
 #include <stdio.h>
-#include <pthread.h>
+#include <pthread.h>  // threads 
 
 void* divisores( void *p )
 {
@@ -34,16 +34,20 @@ int main()
 	long v1[] = { 1, 2000999123 };
 	long v2[] = { 2, 2000999125 };
 	long v3[] = { 3, 2000999127 };
-	pthread_t t0, t1, t2, t3;
+	long v4[] = { 3, 2000999129 };
+
+	pthread_t t0, t1, t2, t3, t4;
 
 	pthread_create( &t0, NULL, divisores, (void*)v0 );
 	pthread_create( &t1, NULL, divisores, (void*)v1 );
 	pthread_create( &t2, NULL, divisores, (void*)v2 );
 	pthread_create( &t3, NULL, divisores, (void*)v3 );
+	pthread_create( &t4, NULL, divisores, (void*)v4 );
 	pthread_join( t0, NULL );
 	pthread_join( t1, NULL );
 	pthread_join( t2, NULL );
 	pthread_join( t3, NULL );
+	pthread_join( t4, NULL );
 	
 	return 0;
 }

@@ -34,9 +34,8 @@ int main()
 	long v1[] = { 1, 2000999123 };
 	long v2[] = { 2, 2000999125 };
 	long v3[] = { 3, 2000999127 };
-	long v4[] = { 3, 2000999129 };
 
-	pthread_t t0, t1, t2, t3, t4;
+	pthread_t t0, t1, t2, t3;
 
 	pthread_create( &t0, NULL, divisores, (void*)v0 );
 	pthread_create( &t1, NULL, divisores, (void*)v1 );

@@ -44,7 +44,7 @@ São Paulo: Pearson Prentice Hall, 2013.
 
 <br>
 
-## Filmes recomendados
+## Filmes Recomendados
 <br>
 
 * The Imitation Game (2014) | [Trailer](https://youtu.be/nuPZUUED5uk)

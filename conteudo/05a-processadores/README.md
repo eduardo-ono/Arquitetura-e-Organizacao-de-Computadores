@@ -33,7 +33,7 @@ Prof. Eduardo Ono
 
 
 > ### Diferenças entre as arquiteturas RISC e CISC
-> * [] []() ()
+> ![fig](./figuras/risc-vs-cisc.png)
 
 > ### ARM vs x86
 > * [Rodrigo Baltar] [Processadores - ARM vs X86](https://www.youtube.com/watch?v=PUWQBVtbj6Y) (YouTube, 14:28, Nov/2017)

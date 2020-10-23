@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lei de Amdahl</title>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <link rel="stylesheet" href="../../bin/css/style.css">
+</head>
+
+<body>
+    <h1>Desenvolvimento Web<br><br>
+        Concorrência e Paralelismo > Lei de Amdahl
+    </h1>
+    <hr>
+    <p>Prof. Eduardo Ono</p>
+    <p><br></p>
+    <p>
+        Lei de Amdahl:
+    </p>
+    <p>
+        $$ s = { 1 \over (1-p + {p \over N}) } $$
+    </p>
+    <p>
+        A Lei de Amdahl é também comumente utilizada para se determinar a fração do código paralelizável. Assim sendo,
+         a função pode ser escrita em termos de p:
+
+         $$ p = { { { 1 \over s } - 1 } \over { { 1 \over N } - 1 } } $$
+    </p>
+
+</body>
+</html>

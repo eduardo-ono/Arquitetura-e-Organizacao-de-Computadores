@@ -32,8 +32,26 @@ Prof. Eduardo Ono
 > * [Rodrigo Baltar] [Processadores - História das Arquiteturas CISC e RISC](https://www.youtube.com/watch?v=1moRiz7KUD4) (YouTube, 18:29, Nov/2017)
 
 
-> ### Diferenças entre as arquiteturas RISC e CISC
-> ![fig](./figuras/risc-vs-cisc.png)
+### Diferença entre as arquiteturas RISC e CISC
+
+<details>
+    <summary>Tabela com as diferenças</summary>
+
+| CISC | RISC |
+| --- | --- |
+| Único conjunto de registradores de uso geral. Geralmente entre 6 e 16 registradores. | Múltiplos conjuntos de registradores. Pode superar 256. |
+| Um ou dois operandos de registradores permitidos por instrução. | Três operadores permitidos por instrução. |
+| Instruções de múltiplos ciclos | Instruções de único ciclo (_load_ e _store_).
+| Controle micro programado. | Controle diretamente no hardware. |
+| Muitas intruções complexas. | Instruções simples em número reduzido. |
+| Instruções de tamanho variável. | Instruções de tamanho fixo. |
+| Complexidade no código. | Complexidade no compilador. |
+| Muitas instruções acessam a memória. | Apenas instruções de _load_ e _store_ acessam a memória. |
+| Muitos modos de endereçamento. | Poucos modos de endereçamento. |
+
+</details>
+
+<br>
 
 > ### ARM vs x86
 > * [Rodrigo Baltar] [Processadores - ARM vs X86](https://www.youtube.com/watch?v=PUWQBVtbj6Y) (YouTube, 14:28, Nov/2017)

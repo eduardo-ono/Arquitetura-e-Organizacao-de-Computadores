@@ -9,3 +9,12 @@ body {
 h1 {
     font-size: 1.6em;
 }
+
+hr {
+    color: silver;
+}
+
+.equation {
+    font-size: larger;
+    padding: 5px;
+}

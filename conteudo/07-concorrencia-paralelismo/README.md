@@ -21,7 +21,10 @@ Prof. Eduardo Ono
 <br>
 
 ## Lei de Amdahl
-<br>
+
+Versão HTML:
+
+* https://eduardo-ono.github.io/arquitetura-e-organizacao-de-computadores/conteudo/07-concorrencia-paralelismo/lei-de-amdahl.html
 
 Lei de Amdahl:
 

@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <h1>Desenvolvimento Web<br><br>
+    <h1>Arquitetura e Organização de Computadores<br><br>
         Concorrência e Paralelismo > Lei de Amdahl
     </h1>
     <hr>
@@ -19,13 +19,19 @@
     <p>
         Lei de Amdahl:
     </p>
-    <p>
+    <p class="equation">
         $$ s = { 1 \over (1-p + {p \over N}) } $$
     </p>
+    <p>onde:<br>
+        s = speedup (ganho de desempenho)<br>
+        p = fração do código paralelizável<br>
+        N = número de unidades de processamento<br>
+    </p>
     <p>
-        A Lei de Amdahl é também comumente utilizada para se determinar a fração do código paralelizável. Assim sendo,
-         a função pode ser escrita em termos de p:
-
+        A <b>Lei de Amdahl</b> é também comumente utilizada para se determinar a fração do código paralelizável. Assim sendo,
+         a função pode ser escrita em termos de <i>p</i>:
+    </p>
+    <p class="equation">
          $$ p = { { { 1 \over s } - 1 } \over { { 1 \over N } - 1 } } $$
     </p>
 

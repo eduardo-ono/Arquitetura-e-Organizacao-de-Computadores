@@ -1,4 +1,6 @@
-# Arquitetura e Organização de Computadores
+### Arquitetura e Organização de Computadores
+
+# Conteúdo
 
 Prof. Eduardo Ono
 
@@ -6,8 +8,7 @@ Home Page: https://eduardo-ono.github.io/arquitetura-e-organizacao-de-computador
 
 <br>
 
-## Conteúdo
-<br>
+## Conteúdo Programático
 
 * Conceitos
 * Arquiteturas de Computadores
@@ -18,12 +19,23 @@ Home Page: https://eduardo-ono.github.io/arquitetura-e-organizacao-de-computador
     * Lei de Moore
 * Processadores
     * Arquitetura do Conjunto de Instruções (ISA)
-    * Ciclo de Intruções
+    * CPU
+        * Ciclo de Intruções
     * Concorrência x Paralelismo
-    * Análise de Desempenho
-    * Lei de Amdahl
+        * Análise de Desempenho em Sistemas Multiprocessados
+        * Lei de Amdahl
     * RISC x CISC
     * Processadores ARM
+* Memória
+    * Registradores
+    * Memória Cache
+    * Memória Primária (RAM)
+    * Memória Secundária
 * Armazenamento
+* GPU
+* GPGPU
+* Computadores Quânticos
 
 <br>
+
+## Bibliografia

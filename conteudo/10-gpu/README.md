@@ -6,9 +6,28 @@ Prof. Eduardo Ono
 
 <br>
 
+## Overview
+
+* [Walt Disney Animation Studios] [Disney's Practical Guide to Path Tracing](https://www.youtube.com/watch?v=frLwRLS_ZR0) (YouTube, 9:31, Ago/2016)
+* [BRKsEDU] [MINECRAFT Como Você NUNCA Viu! | Gameplay com Ray Tracing RTX... Impressionante!!!](https://www.youtube.com/watch?v=43jDNZEHJ5g) (YouTube, 9:22)
+
+<br>
+
 ## Fundamentos
 
+### Computação Gráfica
+
 * [Ahoy] Uma Breve História dos Gráficos | [YouTube](https://youtu.be/QyjyWUrHsFc) (44:26)
+* [CrashCourse] [Screens & 2D Graphics: Crash Course Computer Science #23](https://www.youtube.com/watch?v=7Jr0SFMQ4Rs) (YouTube, 11:31, Ago/2017)
+* [CrashCourse] [3D Graphics: Crash Course Computer Science #27](https://www.youtube.com/watch?v=TEAtmCYYKZA) (YouTube, 12:40, Set/2017)
+* [TheHappieCat] [How Rendering Graphics Works in Games!](https://www.youtube.com/watch?v=cvcAjgMUPUA) (YouTube, 6:24, Jul/2015)
+* [UC Davis Academics] [Introduction to Computer Graphics](https://www.youtube.com/watch?v=01YSK5gIEYQ) (YouTube, 49:44)
+* [AdoredTV] [Beyond Turing - Ray Tracing and the Future of Computer Graphics](https://www.youtube.com/watch?v=SrF4k6wJ-do) (YouTube, 24:37, Set/2018)
+
+### GPU
+
+* [IBM Cloud] [GPUs: Explained](https://www.youtube.com/watch?v=LfdK-v0SbGI) (YouTube, 7:28, Mar/2019)
+* [gameranx] [How Do GRAPHICS CARDS Work?](https://www.youtube.com/watch?v=ZfnPFNnXqC0) (YouTube, 6:46)
 
 <br>
 
@@ -20,6 +39,35 @@ Prof. Eduardo Ono
 
 > ### AV1
 > * [ms-windows-store://pdp/?ProductId=9n4wgh0z6vhq](ms-windows-store://pdp/?ProductId=9n4wgh0z6vhq)
+
+<br>
+
+## Tecnologias
+
+### Ray Tracing
+
+* [NVIDIA GeForce Brasil [Ray Tracing: O que é e como funciona](https://www.youtube.com/watch?v=k48rfJt55-k) (YouTube, 2:40, Ago/2019)
+* [NVIDIA Developer] [Ray Tracing Essentials, Part 1: Basics of Ray Tracing](https://www.youtube.com/watch?v=gBPNO6ruevk) (YouTube, 8:57, Dez/2019)
+* [NVIDIA Developer] [Ray Tracing Essentials Part 2: Rasterization versus Ray Tracing](https://www.youtube.com/watch?v=ynCxnR1i0QY) (YouTube, 6:38, Fev/2020)
+* [NVIDIA Developer] [Ray Tracing Essentials Part 3: Ray Tracing Hardware](https://www.youtube.com/watch?v=EoQfX1q-VNE) (YouTube, 6:53, Mar/2020)
+* [NVIDIA Developer] [Ray Tracing Essentials Part 4: The Ray Tracing Pipeline](https://www.youtube.com/watch?v=LoKUmbvbcRY) (YouTube, 5:23, Mar/2020)
+* [NVIDIA Developer] [Ray Tracing Essentials Part 6: The Rendering Equation](https://www.youtube.com/watch?v=AODo_RjJoUA) (YouTube, 9:23, Abr/2020)
+* [NVIDIA Developer] [Ray Tracing Essentials Part 7: Denoising for Ray Tracing](https://www.youtube.com/watch?v=6O2B9BZiZjQ) (YouTube, 8:20, Mai/2020)
+* [UC Davis Academics] [Ray Tracing](https://www.youtube.com/watch?v=Ahp6LDQnK4Y) (YouTube, 48:38)
+
+<br>
+
+### Nvidia DLSS (Deep Learning Super Sampling)
+
+* [NVIDIA GeForce Brasil] [DLSS nos jogos: O que é e como funciona?](https://www.youtube.com/watch?v=q35pUyWvQ1o) (YouTube, 2:04, Ago/2019)
+* [NVIDIA GeForce Brasil] [NVIDIA DLSS 2.0 | Um grande salto em render com Inteligência Artificial](https://www.youtube.com/watch?v=YsLTzGvUU5Y) (YouTube, 3:46, Mar/2020)
+* [2kliksphilip] [Gaming at Ultra Low Resolutions with DLSS - 240p and beyond](https://www.youtube.com/watch?v=_gQ202CFKzA) (YouTube, 10:30, Out/2020)
+
+<br>
+
+## Nvidia CUDA
+
+* [Greg Salazar] [What Are CUDA Cores?](https://www.youtube.com/watch?v=JFhG9UntZs4) (YouTube, 7:39, Ago/2016)
 
 <br>
 
@@ -46,7 +94,6 @@ FullHD 60Hz | GTX 1660                    | ---                  |              
             |                             |                      | 3080    (10 GB)   U$ 699 | 6800XT (16 GB)  U$ 649 |
             |                             |                      | 3080Ti (?)               |                        |
             |                             |                      | 3090    (24 GB) U$ 1,500 | 6900XT (16 GB)  U$ 999 |
-
 
 
 ## Testes de Placas de Vídeo
@@ -138,4 +185,3 @@ FullHD 60Hz | GTX 1660                    | ---                  |              
 * [Adrenaline] []()
 
 </details>
-

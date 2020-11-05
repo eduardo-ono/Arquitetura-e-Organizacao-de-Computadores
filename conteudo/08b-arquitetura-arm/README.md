@@ -37,6 +37,8 @@ Prof. Eduardo Ono
 
 ## Processadores baseados em ARM - Aplicações
 
+* [ExplainingComputers] [Apple Goes ARM: The RISC Revolution](https://www.youtube.com/watch?v=EtYfTVksuio) (YouTube, 11:31, Ago/2020)
+
 <br>
 
 ## Vídeos Recomendados

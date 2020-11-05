@@ -27,15 +27,15 @@ Prof. Eduardo Ono
 
 ## Arquiteturas RISC e CISC
 
-
 > ### História
 > * [Rodrigo Baltar] [Processadores - História das Arquiteturas CISC e RISC](https://www.youtube.com/watch?v=1moRiz7KUD4) (YouTube, 18:29, Nov/2017)
 
-
 ### Diferença entre as arquiteturas RISC e CISC
 
+* [Lex Clips] [RISC vs CISC Computer Architectures (David Patterson) | AI Podcast Clips with Lex Fridman](https://www.youtube.com/watch?v=NNgdcn4Ux1k) (YouTube, 23:18, Jun/2020)
+
 <details>
-    <summary>Tabela com as diferenças</summary>
+    <summary>Tabela com as diferenças entre RISC e CISC</summary>
 
 | CISC | RISC |
 | --- | --- |

@@ -10,16 +10,27 @@ Versão HTML: https://eduardo-ono.github.io/arquitetura-e-organizacao-de-computa
 
 ## Overview
 
+* [Ahoy] Uma Breve História dos Gráficos | [YouTube](https://youtu.be/QyjyWUrHsFc) (44:26)
+* [Prax Presents] [A Brief History of the GPU - Part 1 (Prax)](https://www.youtube.com/watch?v=3kv0-S_bHig) (YouTube, 20:44, Out/2015)
 * [Walt Disney Animation Studios] [Disney's Practical Guide to Path Tracing](https://www.youtube.com/watch?v=frLwRLS_ZR0) (YouTube, 9:31, Ago/2016)
 * [BRKsEDU] [MINECRAFT Como Você NUNCA Viu! | Gameplay com Ray Tracing RTX... Impressionante!!!](https://www.youtube.com/watch?v=43jDNZEHJ5g) (YouTube, 9:22)
 
 <br>
 
+## Conceitos
+
+***Vertex*** é uma estrutura de dados (de Computação Gráfica) que descreve atributos, tais como, coordenadas de um ponto no espaço 2D ou 3D ou múltiplas coordenadas em uma superfície.
+
+***Vertex shaders*** são o tipo mais comum de _3D shader_ e são aplicados um vez para cada _vertex_ fornecido à GPU. Podem manipular propriedades como as coordenadas da posição, cor e textura, porém, não não podem criar novos _vertices_ (plural de _vertex_). A saída do _vertex shader_ é direcionada para o próximo estágio do _pipeline_, que pode ser o _geometry shader_, caso presente, ou o _rasterizer_. 
+
+<br>
+
 ## Fundamentos
+
+<img src="./figuras/fluxo-renderizacao.svg" width="250px">
 
 ### Computação Gráfica
 
-* [Ahoy] Uma Breve História dos Gráficos | [YouTube](https://youtu.be/QyjyWUrHsFc) (44:26)
 * [CrashCourse] [Screens & 2D Graphics: Crash Course Computer Science #23](https://www.youtube.com/watch?v=7Jr0SFMQ4Rs) (YouTube, 11:31, Ago/2017)
 * [CrashCourse] [3D Graphics: Crash Course Computer Science #27](https://www.youtube.com/watch?v=TEAtmCYYKZA) (YouTube, 12:40, Set/2017)
 * [TheHappieCat] [How Rendering Graphics Works in Games!](https://www.youtube.com/watch?v=cvcAjgMUPUA) (YouTube, 6:24, Jul/2015)

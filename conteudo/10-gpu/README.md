@@ -4,7 +4,7 @@
 
 Prof. Eduardo Ono
 
-Versão HTML: https://eduardo-ono.github.io/arquitetura-e-organizacao-de-computadores/10-gpu/
+Versão HTML: https://eduardo-ono.github.io/arquitetura-e-organizacao-de-computadores/conteudo/10-gpu/
 
 <br>
 

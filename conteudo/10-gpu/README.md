@@ -4,6 +4,8 @@
 
 Prof. Eduardo Ono
 
+Versão HTML: https://eduardo-ono.github.io/arquitetura-e-organizacao-de-computadores/10-gpu/
+
 <br>
 
 ## Overview
@@ -73,28 +75,31 @@ Prof. Eduardo Ono
 
 ## Comparativo Nvidia RTX x AMD Radeon RX Relativo ao Desempenho
 
+<details>
+    <summary>Tabela relativa ao desempenho</summary>
+
 Target      | nVIDIA RTX 2000 (2018)      | AMD Radeon RX        | nVIDIA RTX 3000 (2020)   | AMD Radeon RX 6000 (2020) |
 ---         | ---                         | ---                  | ---                      |  ---                   |
 xxx         | 12 nm                       | 7 nm (TSMC)          | 8 nm (Samsung)           | 7 nm (TSMC)            |
 ---         | ---                         | ---                  | ---                      | ---                    |
----         | GTX 1650 (4 GB)             | ---                  | ---                      | ---                    |
-            | GTX 1650 Super              | RX 5500XT (4 GB)     |                          |                        |
-            | GTX 1650Ti                  | ---                  |                          |                        |
-FullHD 60Hz | GTX 1660                    | ---                  |                          |                        |
-            | GTX 1660 Super              | ---                  |                          |                        |
-            | GTX 1660Ti                  | ---                  |                          |                        |
-            | RTX 2060 (6 GB)             | RX 5600XT (6 GB)     |                          |                        |
-            | RTX 2060 Super              | RX 5700 (8 GB)       |                          |                        |
-2.5k 60Hz   | RTX 2070 (8 GB)             | RX 5700XT (8 GB)     |                          |                        |
-            | RTX 2070 Super              |                      |                          |                        |
-            | RTX 2080                    |                      | 3060 (?)                 |                        |
-            | RTX 2080 Super              |                      | 3060Ti (?)               | 6700  ?                |
-4k 60Hz     | RTX 2080 Ti (11 GB) 4K 60Hz |                      | 3070     (8 GB)   U$ 499 | 6700XT  ?              |
-            |                             |                      | 3070Ti (?)               | 6800   (16 GB)  U$ 579 |
-            |                             |                      | 3080    (10 GB)   U$ 699 | 6800XT (16 GB)  U$ 649 |
-            |                             |                      | 3080Ti (?)               |                        |
-            |                             |                      | 3090    (24 GB) U$ 1,500 | 6900XT (16 GB)  U$ 999 |
+---         | GTX 1650 (4 GB)             | ---                  | ---                      | ---                    |---         | GTX 1650 Super              | RX 5500XT (4 GB)     | ---                      | ---                    |
+---         | GTX 1650Ti                  | ---                  | ---                      | ---                    |
+FullHD 60Hz | GTX 1660                    | ---                  | ---                      | ---                    |
+---         | GTX 1660 Super              | ---                  | ---                      | ---                    |
+---         | GTX 1660Ti                  | ---                  | ---                      | ---                    |
+---         | RTX 2060 (6 GB)             | RX 5600XT (6 GB)     | ---                      | ---                    |
+---         | RTX 2060 Super              | RX 5700 (8 GB)       | ---                      | ---                    |
+2.5k 60Hz   | RTX 2070 (8 GB)             | RX 5700XT (8 GB)     | ---                      | ---                    |
+---         | RTX 2070 Super              | ---                  | ---                      | ---                    |
+---         | RTX 2080                    | ---                  | 3060 (?)                 |                        |
+---         | RTX 2080 Super              | ---                  | 3060Ti (?)               | 6700  ?                |
+4k 60Hz     | RTX 2080 Ti (11 GB) 4K 60Hz | ---                  | 3070     (8 GB)   U$ 499 | 6700XT  ?              |
+---         | ---                         | ---                  | 3070Ti (?)               | 6800   (16 GB)  U$ 579 |
+---         | ---                         | ---                  | 3080    (10 GB)   U$ 699 | 6800XT (16 GB)  U$ 649 |
+---         | ---                         | ---                  | 3080Ti (?)               |                        |
+---         | ---                         | ---                  | 3090    (24 GB) U$ 1,500 | 6900XT (16 GB)  U$ 999 |
 
+</details>
 
 ## Testes de Placas de Vídeo
 

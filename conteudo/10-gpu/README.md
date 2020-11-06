@@ -27,7 +27,7 @@ Versão HTML: https://eduardo-ono.github.io/arquitetura-e-organizacao-de-computa
 
 ## Fundamentos
 
-<img src="./figuras/fluxo-renderizacao.svg" width="250px">
+<img src="./figuras/fluxo-renderizacao.svg" width="250">
 
 ### Computação Gráfica
 

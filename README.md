@@ -2,7 +2,7 @@
 
 Prof. Eduardo Ono
 
-Home Page: https://eduardo-ono.github.io/arquitetura-e-organizacao-de-computadores/
+Versão HTML: https://eduardo-ono.github.io/arquitetura-e-organizacao-de-computadores/
 
 <br>
 
@@ -48,7 +48,7 @@ São Paulo: Pearson Prentice Hall, 2013.
 
 ## Filmes Recomendados
 
-| Trailer | Título|
+Trailer | Título
 | --- | --- |
 [![Trailer](https://img.youtube.com/vi/nuPZUUED5uk/default.jpg)](https://youtu.be/nuPZUUED5uk) | The Imitation Game (2014) / O Jogo da Imitação
 [![Trailer](https://img.youtube.com/vi/SH1jKZwcS9Y/default.jpg)](https://youtu.be/SH1jKZwcS9Y) | Jobs (2013)

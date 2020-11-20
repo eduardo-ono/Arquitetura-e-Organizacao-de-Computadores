@@ -11,6 +11,7 @@ Versão HTML: https://eduardo-ono.github.io/arquitetura-e-organizacao-de-computa
 ## Overview
 
 * [Ahoy] Uma Breve História dos Gráficos | [YouTube](https://youtu.be/QyjyWUrHsFc) (44:26)
+* [Techquickie] [History of GPUs As Fast As Possible](https://www.youtube.com/watch?v=jznazEHJKiY) (YouTube, 8:16)
 * [Prax Presents] [A Brief History of the GPU - Part 1 (Prax)](https://www.youtube.com/watch?v=3kv0-S_bHig) (YouTube, 20:44, Out/2015)
 * [Walt Disney Animation Studios] [Disney's Practical Guide to Path Tracing](https://www.youtube.com/watch?v=frLwRLS_ZR0) (YouTube, 9:31, Ago/2016)
 * [BRKsEDU] [MINECRAFT Como Você NUNCA Viu! | Gameplay com Ray Tracing RTX... Impressionante!!!](https://www.youtube.com/watch?v=43jDNZEHJ5g) (YouTube, 9:22)

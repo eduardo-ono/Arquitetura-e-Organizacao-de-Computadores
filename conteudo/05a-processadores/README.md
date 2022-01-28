@@ -98,3 +98,13 @@ OBS.: A tabela não contempla os modelos PRO.
 |                      |                      | Ryzen 7 4800U  (8/16) |                       |
 | Ryzen 7 2800H        | Ryzen 7 3750H        | Ryzen 7 4800HS/H      |                       |
 |                      | Ryzen 7 3780U        | Ryzen 9 4900HS/H      |                       |
+
+<br>
+
+## Apple M1
+
+* [Chrys Gringo] [Apple M1 os Novos Macs São Incríveis - Review Macbook Air M1 com Big Sur](https://www.youtube.com/watch?v=vMllX69Mr2U) (YouTube, 13:56, Nov/2020)
+* [Rodrigo Baltar] [INTEL e AMD x86 - O princípio do fim? Apple trará CPU ARM para Desktop](https://www.youtube.com/watch?v=mcQw3-1ctxY) (YouTube, 28:52, Jun/2020)
+* [Tecnoblog] [Sai Intel, entra Apple - Maior mudança nos Macs em 15 anos](https://www.youtube.com/watch?v=y21cWdIqMrU) (YouTube, 22:45, Jun/2020)
+
+<br>

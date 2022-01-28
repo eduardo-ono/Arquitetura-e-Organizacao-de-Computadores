@@ -41,12 +41,10 @@ int main()
 	pthread_create( &t1, NULL, divisores, (void*)v1 );
 	pthread_create( &t2, NULL, divisores, (void*)v2 );
 	pthread_create( &t3, NULL, divisores, (void*)v3 );
-	pthread_create( &t4, NULL, divisores, (void*)v4 );
 	pthread_join( t0, NULL );
 	pthread_join( t1, NULL );
 	pthread_join( t2, NULL );
 	pthread_join( t3, NULL );
-	pthread_join( t4, NULL );
 	
 	return 0;
 }
